@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="css/skeleton.css">
 
 		<!-- Style -->
-		<link rel="css/stylesheet" href="css/">
+		<link rel="css/stylesheet" href="css/style.css">
 
 	</head>
 	<body style="background-color: #FDFCFA">
